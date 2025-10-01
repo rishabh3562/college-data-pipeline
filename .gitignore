@@ -2,3 +2,9 @@
 .env
 uv.lock
 *.pyc
+.venv
+.claude
+.vscode
+venv
+.env.local
+
