@@ -1,0 +1,16 @@
+[project]
+name = "college-data-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.118.0",
+    "langchain>=0.3.27",
+    "langgraph>=0.6.8",
+    "pymongo>=4.15.1",
+    "python-dotenv>=1.1.1",
+    "redis>=6.4.0",
+    "rq>=2.6.0",
+    "uvicorn>=0.37.0",
+]
